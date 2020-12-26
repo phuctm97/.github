@@ -2,16 +2,18 @@
 
 Hi, thank you for considering contributing 💙!
 
-Please contact [@phuctm97] directly if you can't find your answer here.
+Please contact [@phuctm97] directly if you can't an answer to your question
+here.
 
 ## What to contribute?
 
-Everything here is created to be iteractively improved, so anything that you see
-can be improved or fixed is a contribution:
+Everything is subject to be iteractively improved, so anything that you see can
+be improved or fixed is a contribution:
 
-- Create an issue or DM [@phuctm97] to report a bug or typo, share your ideas.
+- Create an issue or DM [@phuctm97] to report a bug or typos, share your ideas,
+  give feedback, etc.
 
-- Update documentation as you discovered.
+- Update documentation.
 
 - Refactor, deduplicate code to be more readable.
 
@@ -21,18 +23,17 @@ can be improved or fixed is a contribution:
 
 ## Conventions
 
-The followings are some conventions that I'm commonly using across repositories.
-These are not hard rules, use these as suggestions and do whatever you think is
-right:
+The followings are conventions that we've commonly used. These are not hard
+rules, please use them as suggestions and do what you think is right:
 
-- Every commit starts with an emoji 🔨, 🙈, etc. There are no rules, whitelists,
-  or blacklists, they are used to add characters to the repository, so use
-  whatever you think best describes a commit.
+- Every commit starts with an emoji 🔨, 🙈, etc. There are neither rules, nor
+  whitelists, nor blacklists, they add characters to the repository, so use
+  which you think best describes a commit.
 
-- Uses [Prettier] wherever possible. It is standardized, simple, zero
-  configuration, and maintenance.
+- Uses [Prettier] wherever possible. It is standardized and requires zero
+  configuration.
 
-## Adding features/documentation
+## Making changes
 
 Feel free to fork the repository, make changes, and submit a PR to the **default
 branch** (`master` or `main`). If what you're thinking of making is considerably

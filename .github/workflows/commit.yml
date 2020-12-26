@@ -1,0 +1,13 @@
+name: Commit
+
+on: push
+
+jobs:
+  check-code-style:
+    name: Check code style
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actionsx/prettier@v2
+        with:
+          args: --check .
